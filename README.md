@@ -20,3 +20,9 @@ docker run --env DISCORD_TOKEN=<discordtoken> cuehbot:3.0
 ```
 
 **NOTE:** Also, you can add an .env file and add the DISCORD_TOKEN environment Variable.
+
+## Commands
+
+*cueh!duck*
+
+Shows a Random Duck Picture
