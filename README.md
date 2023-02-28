@@ -26,3 +26,8 @@ docker run --env DISCORD_TOKEN=<discordtoken> cuehbot:3.0
 *cueh!duck*
 
 Shows a Random Duck Picture
+
+
+*cueh!elli*
+
+show a Random Gif Picture
