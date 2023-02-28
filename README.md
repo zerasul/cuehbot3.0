@@ -30,4 +30,4 @@ Shows a Random Duck Picture
 
 *cueh!elli*
 
-show a Random Gif Picture
+Shows a Random Gif Picture
